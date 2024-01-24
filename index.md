@@ -13,8 +13,12 @@
 ``` javascript
 let myExample = 'This is my code example';
 ```
-
-
+# <h2> Checklist for Progress
+- [x] Complete Step 1
+- [x] Complete Step 2
+- [x] Complete Step 3
+- [x] Complete Step 4
+- [ ] Complete Step 5
 
 
 
@@ -39,3 +43,4 @@ let myExample = 'This is my code example';
 # I added a picture
 # I added a header on line 7 and 12
 # I added js code 
+# Added header on line 16 and a list
