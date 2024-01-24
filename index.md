@@ -18,7 +18,7 @@ let myExample = 'This is my code example';
 - [x] Complete Step 2
 - [x] Complete Step 3
 - [x] Complete Step 4
-- [ ] Complete Step 5
+- [x] Complete Step 5
 
 
 
